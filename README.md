@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Aaron Elizondo Vargas
 
 🎓 Estudiante de Ingeniería en Sistemas próximo a finalizar mi bachillerato (2 cuatrimestres restantes).  
 📍 Apasionado por la tecnología, el análisis de datos y el desarrollo frontend.
